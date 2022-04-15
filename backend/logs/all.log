@@ -7,3 +7,5 @@
 2022-04-12 01:19:19.888 | ERROR    | response.http_error:http_error_handler:19 - {'client:127.0.0.1, url:/api/system/auth/login, user:None, token:None, detail:账号不存在,或密码错误'}
 2022-04-12 01:20:17.347 | ERROR    | response.http_error:http_error_handler:19 - {'client:127.0.0.1, url:/api/system/auth/login, user:None, token:None, detail:账号不存在,或密码错误'}
 2022-04-12 01:20:18.219 | ERROR    | response.http_error:http_error_handler:19 - {'client:127.0.0.1, url:/api/system/auth/login, user:None, token:None, detail:账号不存在,或密码错误'}
+2022-04-15 17:58:28.739 | ERROR    | public.oppose_crawler:backstage:42 - 未登录
+2022-04-15 17:58:28.741 | ERROR    | response.http_error:http_error_handler:19 - {'client:127.0.0.1, url:/api/system/user/add-user, user:None, token:None, detail:未登录'}

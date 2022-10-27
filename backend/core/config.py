@@ -8,10 +8,10 @@ DOC_URL = '/docs'
 
 # 数据库连接, 多个数据库可用元组
 # '数据库类型+数据库驱动名称://用户名:数据库密码@数据库连接地址:端口号/数据库名'
-DB_CONN_URI = "mysql+pymysql://root:910202@127.0.0.1:3306/opsapi?charset=utf8mb4"
+DB_CONN_URI = "mysql+pymysql://ops:910202@192.168.10.10:3306/opsapi?charset=utf8mb4"
 
 # redis连接
-REDIS_HOST = "127.0.0.1"
+REDIS_HOST = "192.168.10.10"
 REDIS_PORT = 6379
 REDIS_DB = 0
 CH_TOKEN_TIMEOUT = 24 * 60 * 60    # token缓存时间默认24小时

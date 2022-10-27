@@ -32,5 +32,5 @@ def encrypt_password(pwd: str, loginname: str):
     return final_pwd
 
 
-a = encrypt_password("910202", "ren")
+a = encrypt_password("910202", "admin")
 print(a)

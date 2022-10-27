@@ -38,3 +38,9 @@ http://localhost:8000/docs#/
 **api**
 
 ![alt 属性文本](img/docs.png)
+
+**UI**
+![alt 属性文本](img/2022-10-27-224611.png)
+![alt 属性文本](img/2022-10-27-224652.png)
+![alt 属性文本](img/2022-10-27-224718.png)
+![alt 属性文本](img/2022-10-27-224758.png)
